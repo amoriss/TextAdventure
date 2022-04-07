@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amori\\repos\\TextAdventure2\\TextAdventure2\\TextAdventure2.csproj": {}
+    "C:\\Users\\amori\\repos - Original\\TextAdventure2\\TextAdventure2\\TextAdventure2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amori\\repos\\TextAdventure2\\TextAdventure2\\TextAdventure2.csproj": {
+    "C:\\Users\\amori\\repos - Original\\TextAdventure2\\TextAdventure2\\TextAdventure2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amori\\repos\\TextAdventure2\\TextAdventure2\\TextAdventure2.csproj",
+        "projectUniqueName": "C:\\Users\\amori\\repos - Original\\TextAdventure2\\TextAdventure2\\TextAdventure2.csproj",
         "projectName": "TextAdventure2",
-        "projectPath": "C:\\Users\\amori\\repos\\TextAdventure2\\TextAdventure2\\TextAdventure2.csproj",
+        "projectPath": "C:\\Users\\amori\\repos - Original\\TextAdventure2\\TextAdventure2\\TextAdventure2.csproj",
         "packagesPath": "C:\\Users\\amori\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amori\\repos\\TextAdventure2\\TextAdventure2\\obj\\",
+        "outputPath": "C:\\Users\\amori\\repos - Original\\TextAdventure2\\TextAdventure2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amori\\AppData\\Roaming\\NuGet\\NuGet.Config",
